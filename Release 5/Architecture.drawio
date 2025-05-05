@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="VrW0oKgL7cAIrnt1cQET">
+    <mxGraphModel dx="1747" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wquV9erasqRBnrxpf4pF-1" value="Data Consumption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="850" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-2" value="BI Power Bi Tableau" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-3" value="Spreadsheet Excel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="770" y="150" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-4" value="Snowflake ML" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-6" value="Advanced Analytics (AI ML Platform)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-7" value="Data Processing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="470" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-8" value="SNOW Pipe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-9" value="Amazon Sagemaker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-10" value="Raw Data Source&lt;div&gt;Spreadsheet&lt;/div&gt;&lt;div&gt;S3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="780" y="300" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-11" value="Data Ingestion and Integration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="1190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-12" value="Airflow" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="1190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-14" value="Data Lakehouse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="780" y="230" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-15" value="Datamart&lt;div&gt;Power BI&lt;/div&gt;&lt;div&gt;SQL Hive&lt;/div&gt;&lt;div&gt;Microsoft Azure&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="980" y="300" width="220" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-18" value="Data Source" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="780" width="1190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-19" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="850" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-20" value="MongoDB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="630" y="850" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-21" value="API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="920" y="850" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-22" value="DB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="850" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-23" value="Data Governance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="80" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-24" value="Data Discovery" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="150" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-25" value="Data Quality" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="220" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-26" value="Data Lineage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="360" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-27" value="Data Security" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="290" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="430" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.seeklogo.com/logo-png/50/2/power-bi-logo-png_seeklogo-507714.png;" vertex="1" parent="1">
+          <mxGeometry x="670" y="135" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="150" width="70.17" height="65.33" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:574/1*Jk8gyaGEUP2CJB18Btowog.png;" vertex="1" parent="1">
+          <mxGeometry x="636.92" y="303" width="86.1" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png;" vertex="1" parent="1">
+          <mxGeometry x="655" y="380" width="83.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.snowpipe.co.kr/v2/common/m/images/m_.png;" vertex="1" parent="1">
+          <mxGeometry x="630" y="547.02" width="119.97" height="59.99" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://stensul.com/wp-content/uploads/2021/07/amazon-s3.png;" vertex="1" parent="1">
+          <mxGeometry x="800.25" y="492.5" width="159.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="840" y="560" width="32.22" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.seeklogo.com/logo-png/50/2/power-bi-logo-png_seeklogo-507714.png;" vertex="1" parent="1">
+          <mxGeometry x="980" y="492.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/913/753/png-clipart-apache-hive-apache-hadoop-big-data-data-warehouse-apache-spark-pulp-fiction-honey-bee-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://c8.alamy.com/comp/2XX3N5M/microsoft-azure-logo-2XX3N5M.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1042.05" y="310" width="95.89" height="91.02" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="710" width="103.45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="825" y="870" width="85" height="22.95" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wquV9erasqRBnrxpf4pF-21" target="wquV9erasqRBnrxpf4pF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wquV9erasqRBnrxpf4pF-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="859" width="45.13" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
