@@ -83,9 +83,12 @@ The goal is to provide sales and logistics teams with **real-time insights into 
 ---
 
 ## 🤝 Contributors
-- Your Name (and teammates if applicable)  
+- Damario Abdalla
+- Haiyang Yuan
+- Jiahe Li
+- Ziyuan Wang
+- Puyue Zou
+- Daniel McGhee
+- Mrinali Dole
 
 ---
-
-## 📜 License
-Add your chosen license here (MIT recommended if open-source).  
